@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ibindsystems.uitest",
+      "sha256_cert_fingerprints":
+      ["8F:BD:70:36:3A:63:8E:2A:58:F4:D1:3C:47:92:57:4B:76:91:67:BF:2F:41:68:F4:65:13:EE:5C:FA:69:1A:5F"]
+    }
+  }]
